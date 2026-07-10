@@ -22,14 +22,15 @@
         <li>Reading books</li><li>Playing basketball</li><li>Listening to music</li><li>Watching K‑dramas</li>
       </ul>
     <hr>
-<h2>2. my top favorite fooods</h2>
+<h2>2. my top favorite foods</h2>
   <ol type="A">
-    <li>sinigang</li> <li>drypusit</li><li>ice cream</li><li>pizza</li>
+   <li>adobo</li><li>sinigang</li> <li>dry pusit</li><li>ice cream</li><li>pizza</li>
     </ol>
   <hr>  
  <h2>3. My educational goals</h2>
     <ol start="5"
-      <li>gradute senioor high school with honors</li><li>get a scholarship for college</li><li>learn programming and web developer</li>
+      
+<li>gradute senioor high school with honors</li><li>get a scholarship for college</li><li>learn programming and web developer</li>
     </ol>
      <hr>
       <h2>4. My daily ruitine</h2>
