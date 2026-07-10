@@ -24,7 +24,7 @@
     <hr>
 <h2>2. my top favorite fooods</h2>
   <ol type="A">
-    <li>adobo</ol><li>sinigang</li> <li>drypusit</li><li>ice cream</li><li>pizza</li>
+    <li>adobo</li><li>sinigang</li> <li>drypusit</li><li>ice cream</li><li>pizza</li>
     </ol>
   <hr>  
  <h2>3. My educational goals</h2>
