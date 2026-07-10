@@ -33,7 +33,7 @@
 <li>gradute senioor high school with honors</li><li>get a scholarship for college</li><li>learn programming and web developer</li>
     </ol>
      <hr>
-      <h2>4. My daily ruitine</h2>
+      <h2>4. My daily routine</h2>
       <ol type="I">
         <li>wake up at 6:00 AM and pray</li><li>go to school and attend classes</li><li>do homework and assignments</li><li>exercise and spend time with my family and friends</li><li>sleep at 9:00 PM</li>
       </ol>
