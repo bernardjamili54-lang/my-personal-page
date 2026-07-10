@@ -1,29 +1,9 @@
 # my-personal-page <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>About Me — Bernardo Jamili</title>
-  <style>
-    :root { color-scheme: light dark; }
-    body {
-      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      color: #111;
-    }
-    header h1 { margin: 0 0 .5rem; }
-    section { margin: 1.25rem 0; }
-    h2 { margin: .5rem 0; font-size: 1.15rem; }
-    ul { margin: .5rem 0 0 1.25rem; }
-    hr { border: none; border-top: 1px solid #d0d0d0; margin: 1rem 0; }
-    footer small { color: #666; }
-  </style>
-</head>
+</hea>
 <body>
-  <header>
     <h1>About Me</h1>
   </header>
 
@@ -33,22 +13,33 @@
       <p><strong>Name:</strong> Bernardo Jamili</p>
       <p><strong>Where I’m from:</strong> Lapu‑Lapu City, Philippines. I enjoy learning new things, especially in science and technology.</p>
     </section>
-
     <hr>
-
     <section aria-labelledby="interests">
       <h2 id="interests">Interests and Hobbies</h2>
       <p>I like to spend my free time doing things that help me relax and learn. My hobbies include:</p>
+    <h2>1. my hobbies and interest - unordered list with square bullets -->
       <ul>
-        <li>Reading books</li>
-        <li>Playing basketball</li>
-        <li>Listening to music</li>
-        <li>Watching K‑dramas</li>
+        <li>Reading books</li><li>Playing basketball</li><li>Listening to music</li><li>Watching K‑dramas</li>
       </ul>
-    </section>
-
     <hr>
-
+<h2>2. my top favorite fooods</h2>
+  <ol type="A">
+    <li>adobo</ol><li>sinigang</li> <li>drypusit</li><li>ice cream</li><li>pizza</li>
+    </ol>
+  <hr>  
+ <h2>3. My educational goals</h2>
+    <ol start="5"
+      <li>gradute senioor high school with honors</li><li>get a scholarship for college</li><li>learn programming and web developer</li>
+    </ol>
+     <hr>
+      <h2>4. My daily ruitine</h2>
+      <ol type="I">
+        <li>wake up at 6:00 AM and pray</li><li>go to school and attend classes</li><li>do homework and assignments</li><li>exercise and spend time with my family and friends</li><li>sleep at 9:00 PM</li>
+      </ol>
+      <hr>
+    <h2>5. My Countdown to Success</h2>
+      <ol reversed>
+        <li>achieve my dream career</li><li>finish college</li><li>graduete senior high school</li>
     <section aria-labelledby="goals">
       <h2 id="goals">Personal and Career Goals</h2>
       <p><strong>Personal goal:</strong> To become more disciplined and improve my communication and teamwork skills.</p>
