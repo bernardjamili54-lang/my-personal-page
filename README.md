@@ -17,14 +17,14 @@
     <section aria-labelledby="interests">
       <h2 id="interests">Interests and Hobbies</h2>
       <p>I like to spend my free time doing things that help me relax and learn. My hobbies include:</p>
-    <h2>1. my hobbies and interest - unordered list with square bullets -->
+    <h2>1. my hobbies and interest</h2>
       <ul>
         <li>Reading books</li><li>Playing basketball</li><li>Listening to music</li><li>Watching K‑dramas</li>
       </ul>
     <hr>
 <h2>2. my top favorite fooods</h2>
   <ol type="A">
-    <li>adobo</li><li>sinigang</li> <li>drypusit</li><li>ice cream</li><li>pizza</li>
+    <li>sinigang</li> <li>drypusit</li><li>ice cream</li><li>pizza</li>
     </ol>
   <hr>  
  <h2>3. My educational goals</h2>
